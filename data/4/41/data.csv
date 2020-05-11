@@ -1,0 +1,563 @@
+lData,lName
+Jiwitesh,Data
+Apple,Fruit
+banana,fruit
+grapes,fruit
+Apricots,fruit
+Avocados.,fruit
+Blueberries.,fruit
+Bing Cherry.,fruit
+Grapes.,fruit
+Guava.,fruit
+Jackfruit.,fruit
+Kiwi.,fruit
+Lime.,fruit
+Mango,fruit
+Mulberry,fruit
+Melon,fruit
+Olive,fruit
+Oranges,fruit
+Papaya,fruit
+Peach,fruit
+Pomegranate,fruit
+Pineapple,fruit
+Raspberries,fruit
+Strawberries,fruit
+Watermelon,fruit
+cherry,fruit
+carrot,vegetables
+cauliflower,vegetables
+corn,vegetables
+cucumber,vegetables
+mushrooms,vegetables
+onion,vegetables
+potato,vegetables
+pumpkin,vegetables
+red pepper,vegetables
+green pepper,vegetables
+tomato ,vegetables
+beetroot ,vegetables
+peas ,vegetables
+brussel sprouts ,vegetables
+radish ,vegetables
+sweet potato ,vegetables
+cabbage ,vegetables
+chili ,vegetables
+garlic ,vegetables
+cinnamon ,vegetables
+coriander ,vegetables
+green bean ,vegetables
+Broccoli ,vegetables
+Turnip ,vegetables
+Spinach ,vegetables
+brinjal ,vegetables
+gald ,Happy
+blissful ,Happy
+delighted ,Happy
+joyful ,Happy
+joyous ,Happy
+jubilant ,Happy
+rejoicing ,Happy
+tickled ,Happy
+ecstatic ,Happy
+elated ,Happy
+overjoyed ,Happy
+thrilled ,Happy
+appeased ,Happy
+pacified ,Happy
+favorable ,Happy
+golden ,Happy
+good ,Happy
+play ,Happy
+laugh ,Happy
+jump ,Happy
+bright ,Happy
+sunny ,Happy
+cheerful ,Happy
+smiling ,Happy
+miserable ,Happy
+rosy ,Happy
+lively ,Happy
+peaceful ,Happy
+pleased ,Happy
+upbeat ,Happy
+blessed ,Happy
+blest ,Happy
+chirpy ,Happy
+flying high ,Happy
+gleeful ,Happy
+jolly ,Happy
+light ,Happy
+looking good ,Happy
+mirthful,Happy
+playful,Happy
+sparkling,Happy
+unhappy,Sad
+cry,Sad
+mourn,Sad
+gloomy,Sad
+sorrowful,Sad
+bleak,Sad
+wistful,Sad
+homesick,Sad
+upset,Sad
+bad,Sad
+blue,Sad
+depressed,Sad
+doleful,Sad
+down,Sad
+downcast,Sad
+droopy,Sad
+hangdog,Sad
+joyless,Sad
+low,Sad
+miserable,Sad
+unhappy,Sad
+troubled,Sad
+distressed,Sad
+uneasy,Sad
+unquiet,Sad
+worried,Sad
+hopeless,Sad
+disappointed,Sad
+discourged,Sad
+disheartened,Sad
+disprited,Sad
+tearful,Sad
+regetful,Sad
+black,Sad
+bleak,Sad
+cheerless,Sad
+comfortless,Sad
+dark,Sad
+darkening,Sad
+depressing,Sad
+dog,Animals
+puppy,Animals
+cat,Animals
+turtle,Animals
+rabbit,Animals
+parrot,Animals
+kitten,Animals
+fsh,Animals
+mouse,Animals
+goldfish,Animals
+hamster,Animals
+cow,Animals
+ducks,Animals
+sheep,Animals
+pig,Animals
+goat,Animals
+elephant,Animals
+donkey,Animals
+monkey,Animals
+owl,Animals
+ostrich,Animals
+crab,Animals
+crow,Animals
+sparrow,Animals
+deer,Animals
+bee,Animals
+bear,Animals
+Peacock,Animals
+Dove,Animals
+Goose,Animals
+Stork,Animals
+Pigeon,Animals
+Turkey,Animals
+Hawk,Animals
+eagle,Animals
+Flamingo,Animals
+Seagull,Animals
+Penguin,Animals
+Robin,Animals
+Swan,Animals
+Woodpecker,Animals
+Squirrel,Animals
+Chimpanzee,Animals
+Ox,Animals
+Lion,Animals
+Panda,Animals
+Walrus,Animals
+Otter,Animals
+Kangaroo,Animals
+Horse,Animals
+Leopard,Animals
+Hippopotamus,Animals
+Giraffe,Animals
+Fox,Animals
+Camel,Animals
+Starfish,Animals
+Alligator,Animals
+Tiger,Animals
+Blue whale,Animals
+wolf,Animals
+Crocodile,Animals
+Dolphin,Animals
+Snake,Animals
+Hare,Animals
+Hippopotamus,Animals
+Gorilla,Animals
+Toad,Animals
+Frog,Animals
+Rat,Animals
+Lizard,Animals
+Reindeer,Animals
+Seal,Animals
+Shark,Animals
+Octopus,Animals
+Seahorse,Animals
+Jellyfish,Animals
+Squid,Animals
+Butterfly,Animals
+Spider,Animals
+Ladybird,Animals
+ladybug,Animals
+Ant,Animals
+Dragonfly,Animals
+fly,Animals
+Mosquito,Animals
+Grasshopper,Animals
+Beetle,Animals
+Cockroach,Animals
+Worm,Animals
+Louse,Animals
+Hen,Animals
+Calf,Animals
+Chick,Animals
+Fawn,Animals
+Lamb,Animals
+doll,Toys
+bicycle,Toys
+train,Toys
+ball,Toys
+teddy bear,Toys
+kite,Toys
+airplane,Toys
+cayons,Toys
+rocking horse,Toys
+car,Toys
+drums,Toys
+barbie,Toys
+marbles,Toys
+swing,Toys
+twister,Toys
+park,Happy
+zoo,Happy
+circus,Happy
+cartoon,Happy
+Tom and jerry,Cartoons
+looney tunes,Cartoons
+the simpsons,Cartoons
+batman,Cartoons
+The flintstones,Cartoons
+South park,Cartoons
+Avatar,Cartoons
+Pokeman,Cartoons
+Teen titans,Cartoons
+duck tales,Cartoons
+dragon ball,Cartoons
+star wars,Cartoons
+The real ghostbusters,Cartoons
+scoby doo,Cartoons
+bugs bunny,Cartoons
+mickey mouse,Cartoons
+thunder cats,Cartoons
+muppet babies,Cartoons
+spider man,Cartoons
+spongeBob,Cartoons
+The legend of korra,Cartoons
+TaleSpin,Cartoons
+Silverhawks,Cartoons
+Garield and friends,Cartoons
+The wuzzles,Cartoons
+snorks,Cartoons
+Inspector gadget,Cartoons
+Mask,Cartoons
+Darkwing duck,Cartoons
+The jetsons,Cartoons
+The Tick,Cartoons
+Dungeons and dragons,Cartoons
+Pinky and the brain,Cartoons
+The woody woodpecker show,Cartoons
+Fraggle rock,Cartoons
+Justice league,Cartoons
+Popeye the sailor,Cartoons
+Camp candy,Cartoons
+Dino riders,Cartoons
+The trap door,Cartoons
+Superman Animated series,Cartoons
+Sky commanders,Cartoons
+Mighty mouse,Cartoons
+Dragon lair,Cartoons
+Dinosaucers,Cartoons
+Gravity falls,Cartoons
+chocolates,Happiness
+sweets,Happiness
+toys,Happiness
+pizza,Happiness
+icecream,Happiness
+shopping,Happiness
+roaming,Happiness
+riding,Happiness
+gym,Happiness
+hug,Happiness
+good report,Happiness
+cuddled,Happiness
+salary,Happiness
+enjoyment,Happiness
+walking,Happiness
+chatting,Happiness
+gifts,Happiness
+affection,Happiness
+bonding,Happiness
+achievement,Happiness
+nature,Happiness
+leisure,Happiness
+exercise,Happiness
+journey,Happiness
+cooking,Happiness
+holidays,Happiness
+festival,Happiness
+friends,Happiness
+family,Happiness
+swimming,Happiness
+study,Happiness
+celebration,Happiness
+dancing,Happiness
+singing,Happiness
+travelling,Happiness
+rain,Happiness
+birthday,Happiness
+flowers,Happiness
+sleeping,Happiness
+climate,Happiness
+job,Happiness
+photos,Happiness
+restaurant ,Happiness
+trip ,Happiness
+hang out ,Happiness
+jewlery ,Happiness
+dress ,Happiness
+temple ,Happiness
+crafting ,Happiness
+drawing ,Happiness
+painting ,Happiness
+colouring ,Happiness
+jogging ,Happiness
+eating ,Happiness
+talking ,Happiness
+reading books ,Happiness
+surprises ,Happiness
+songs ,Happiness
+functions ,Happiness
+garden ,Happiness
+boating ,Happiness
+writing stories ,Happiness
+relax ,Happiness
+beaches ,Happiness
+exhibition ,Happiness
+crackers ,Happiness
+responsibility ,Happiness
+team work ,Happiness
+decoration ,Happiness
+efforts ,Happiness
+award,Happiness
+planting,Happiness
+babies,Happiness
+fun,Happiness
+admirable,Happiness
+home,Happiness
+meditation,Happiness
+dreaming,Happiness
+coco,Movies
+Wall-E,Movies
+frozen,Movies
+cinderella,Movies
+The little mermaid,Movies
+Happy feet,Movies
+tangled,Movies
+peter pan,Movies
+My little pony,Movies
+Moana,Movies
+The lion king,Movies
+Puss in boots,Movies
+Aladdin,Movies
+Monsters,Movies
+Shrek,Movies
+Bambi,Movies
+Inside out,Movies
+Snow White and the Seven Dwarfs ,Movies
+Zootopia,Movies
+finding nemo,Movies
+finding dory,Movies
+pinocchio,Movies
+how to train your dragon,Movies
+Shaun the sheep,Movies
+Dumbo,Movies
+Beauty and the Beast (1991),Movies
+Yellow Submarine,Movies
+Chicken Run ,Movies
+The Lego Batman ,Movies
+The Nightmare Before Christmas ,Movies
+The Iron Giant,Movies
+Spirited Away,Movies
+Tower,Movies
+Song Of The Sea,Movies
+The Lion King ,Movies
+Fantasia ,Movies
+The Red Turtle ,Movies
+Long Way North ,Movies
+Long Way North ,Movies
+Antz ,Movies
+proud ,Happy
+protected ,Happy
+prominent ,Happy
+productive ,Happy
+pretty ,Happy
+wonderful ,Happy
+pleasant ,Happy
+wowjoy ,Happy
+well ,Happy
+welcome ,Happy
+lucky ,Happy
+willing ,Happy
+lucid ,Happy
+popular ,Happy
+innovate ,Happy
+polished ,Happy
+polished ,Happy
+learned ,Happy
+super ,Happy
+imagine ,Happy
+successful ,Happy
+instant ,Happy
+idea ,Happy
+ideal,Happy
+honoured,Happy
+honest,Happy
+choice,Happy
+honourable,Happy
+stunning,Happy
+spiritual,Happy
+secure,Happy
+safe,Happy
+satisfactory,Happy
+worthy,Happy
+handsome,Happy
+healthy,Happy
+charming,Happy
+grin,Happy
+lol,Happy
+great,Happy
+graceful,Happy
+good,Happy
+glowing,Happy
+giving,Happy
+friendly,Happy
+glamorous,Happy
+genius,Happy
+generous,Happy
+fresh,Happy
+free,Happy
+fortunate,Happy
+fitting,Happy
+favourable,Happy
+famous,Happy
+fair,Happy
+admir,Happy
+dejected,Sad
+downhearted,Sad
+woeful,Sad
+downcast,Sad
+despondent,Sad
+somber,Sad
+pitiable,Sad
+unfortunate,Sad
+dire,Sad
+pathetic,Sad
+cruel,Sad
+rough,Sad
+offended,Sad
+doleful,Sad
+tough,Sad
+sore,Sad
+funereal,Sad
+pessimistic,Sad
+crestfallen,Sad
+glum,Sad
+difficult,Sad
+severe,Sad
+sensitive,Sad
+weighty,Sad
+fat,Sad
+unbearable,Sad
+dolorous,Sad
+heartsick,Sad
+adust,Sad
+profound,Sad
+tax,Sad
+despairing,Sad
+morbid,Sad
+forlorn,Sad
+leaden,Sad
+nasty,Sad
+rueful,Sad
+regret,Sad
+grave,Sad
+heartrending,Sad
+tragic,Sad
+low-spirited,Sad
+bitter,Sad
+wretched,Sad
+heavy,Sad
+moody,Sad
+shabby,Sad
+injured,Sad
+moving,Sad
+distrubed,Sad
+sullen,Sad
+harmed,Sad
+hurt,Sad
+pensive,Sad
+India,Country
+land,Country
+soil,Country
+rural,Country
+urban,Country
+countryman,Country
+cross-country,Country
+import,Country
+motherland,Country
+export,Country
+homeland,Country
+natinal,Country
+abroad,Country
+state,Country
+district,Country
+village,Country
+area,Country
+foreign,Country
+satellite,Country
+nation,Country
+coast,Country
+kingdom,Country
+ruppee,Country
+lane,Country
+place,Country
+democracy,Country
+foreign exchange,Country
+region ,Country
+patriot ,Country
+government ,Country
+central ,Country
+flag ,Country
+army ,Country
+navy ,Country
+national anthem ,Country
+democracy ,Country
+minister,Country
+economic,Country
+nationally,Country
+leader,Country
+watch,Things

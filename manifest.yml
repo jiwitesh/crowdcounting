@@ -1,0 +1,10 @@
+
+---
+applications:
+- name: happySadGameUserSpecific
+  memory: 1.5GB
+  disk_quota: 2GB
+  random-route: true
+  parameters:
+    memory: 1.5GB
+    buildpack: 'python_buildpack'

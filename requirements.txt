@@ -1,0 +1,7 @@
+gensim==3.8.0
+Flask
+numpy
+pandas
+scikit-learn
+pikl
+flask-cors
