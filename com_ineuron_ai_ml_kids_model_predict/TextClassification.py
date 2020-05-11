@@ -19,12 +19,12 @@ class Predict:
             else:
                 tempList = [row["lData"].strip().lower()]
                 self.mappingDict[row["lName"].strip().lower()] = tempList
-        print(self.mappingDict.keys())
+        # print(self.mappingDict.keys())
 
     def getPrediction(self, inputString):
         for key in self.mappingDict.keys():
             templist = self.mappingDict[key]
-            print(templist)
+            # print(templist)
             if inputString.strip().lower() in templist:
                 return key
         else:

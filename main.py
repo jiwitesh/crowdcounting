@@ -27,8 +27,8 @@ def predictRoute():
             userId = str(request.json['userId'])
             projectId = str(request.json['projectId'])
             csvFilePath = trainingDataFolderPath + userId + "/" + projectId + "/data.csv"
-            print("userID and projectId given is",userId, projectId)
-            print("Data sent for prediction is :",request.json['messageText'])
+            # print("userID and projectId given is",userId, projectId)
+            # print("Data sent for prediction is :",request.json['messageText'])
             # csvFilePath = "data/data.csv"
             # modelname = "finalized_model.sav"
             # feature = "lData"
@@ -56,17 +56,17 @@ def trainModel():
         if request.json['projectId'] is not None:
             projectId = str(request.json['projectId'])
             # path = path + "/" + projectId
-        print("userId is {} and projectId is {}".format(userId,projectId))
+        # print("userId is {} and projectId is {}".format(userId,projectId))
 
         createDirectoryForTrainingImages(userId, projectId)
-        print("Directory is created successfully!!!")
+        # print("Directory is created successfully!!!")
         path = trainingDataFolderPath + userId + "/" + projectId
-        print("path created is...", path)
+        # print("path created is...", path)
         if request.json['data'] is not None:
-            print("data given for training is :",request.json['data'])
+            # print("data given for training is :",request.json['data'])
             with open(path + '/data.json', 'w', encoding='utf-8') as f:
                 json.dump(request.json['data'], f, ensure_ascii=False, indent=4)
-            print("training data is at the path...", path)
+            # print("training data is at the path...", path)
             dataFrame = pd.read_json(path + '/data.json')
             dataFrame.to_csv(path + '/data.csv', index=None, header=True)
     except ValueError as val:
